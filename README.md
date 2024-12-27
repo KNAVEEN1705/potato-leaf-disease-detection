@@ -24,10 +24,5 @@ Ensure the following are installed:
 ## Installation
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/KNAVEEN1705/potato-leaf-disease-detection.git
-
-2. Navigate to the Backend Directory
-cd potato-leaf-disease-detection/backend
-3. 
