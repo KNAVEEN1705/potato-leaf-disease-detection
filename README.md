@@ -22,7 +22,5 @@ Ensure the following are installed:
 ---
 
 ## Installation
-
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/KNAVEEN1705/potato-leaf-disease-detection.git
+```bash git clone https://github.com/KNAVEEN1705/potato-leaf-disease-detection.git
