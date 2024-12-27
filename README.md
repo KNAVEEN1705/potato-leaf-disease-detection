@@ -23,4 +23,32 @@ Ensure the following are installed:
 
 ## Installation
 ### 1. Clone the Repository
-```bash git clone https://github.com/KNAVEEN1705/potato-leaf-disease-detection.git
+ 
+`git clone https://github.com/KNAVEEN1705/potato-leaf-disease-detection.git `
+
+### 2. Navigate to the Backend Directory
+`cd potato-leaf-disease-detection/backend`
+
+### 3. Set Up Virtual Environment (Recommended)
+Create and activate a virtual environment to manage project dependencies:
+`python -m venv venv`
+- Activate the virtual environment:
+`.\venv\Scripts\activate`
+- Mac/Linux:
+`source venv/bin/activate`
+
+### 4. Install Dependencies
+Install the required Python libraries:
+`pip install -r requirements.txt`
+-------------------------------------------------------------------------------
+##  Running the Application
+### 1. Start the Backend API
+Run the backend server using Flask or FastAPI. For Flask:
+`python main.py`
+-------------------------------------------------------------------------------
+## Frontend Code
+The frontend code for this project can be found in the same repository. Access it [here](https://github.com/KNAVEEN1705/potato-leaf-disease-detection-Frontend-code).
+
+
+
+
